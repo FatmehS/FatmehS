@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**FatmehS/FatmehS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Fatmeh Shaal**, an **AI Engineer** interested in learning about machine learning, GenAI, Computer Vision, and NLP. 
 
-Here are some ideas to get you started:
+## Education 📘
+- 👩‍💻Bachelor Degree in Computer Science --> American University of Sharjah
+- 👩‍💻Masters Degree in Computer Science and AI --> University of York
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Experience 
+- **Solution Architect**
+- **AI-Data Scientist**
+- **Full Stack AI Engineer**
+
+## Certifications 
+- Azure AI Fundementals 900
+- Nutanix Certified Professional
+
+## Tech Stack
+**Languages:**  
+Python, JavaScript
+
+**AI / Machine Learning:**  
+Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP  
+PyTorch, Scikit-learn
+
+**Data & Databases:**  
+Pandas, NumPy, SQL
+
+**Backend & APIs:**  
+Node.js, REST APIs
+
+**Cloud & DevOps:**  
+Docker, CI/CD, Cloud Platforms
+
+**Tools:**  
+Git, Linux
